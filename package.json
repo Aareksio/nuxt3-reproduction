@@ -5,9 +5,9 @@
     "dev": "nuxt"
   },
   "dependencies": {
-    "nuxt-edge": "^2.16.0-27226092.034b9901"
+    "nuxt-edge": "latest"
   },
   "devDependencies": {
-    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27248715.54549cf"
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@latest"
   }
 }

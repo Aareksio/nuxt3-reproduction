@@ -3,6 +3,11 @@
 Error after fresh install of `nuxt-edge` + `@nuxt/bridge`:
 
 ```
+npm install
+npm run dev
+```
+
+```
  ERROR  Failed to compile with 6 errors                                                                                                                                                                                                                       friendly-errors 22:18:43
 
 
